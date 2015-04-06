@@ -1,1 +1,1 @@
-이것은 GIT 수업 입니다.
+# opentutorials_git_lms478
